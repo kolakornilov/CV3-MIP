@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.9.30)  30 SEP 2026 16:06
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.9.30)  30 SEP 2026 16:12
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -329,19 +329,23 @@ File: il2cmtt.fd 1997/08/20 CSLaTeX font definitions
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 33.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 67.
+(Font)              <7> on input line 59.
 
 [1
 
 {C:/Users/Admin/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
 (clanok.bbl)
 Package babel Info: 'slovak' activates 'slovak' shorthands.
-(babel)             Reported on input line 124.
+(babel)             Reported on input line 116.
  [2] (clanok.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2025-12-24>
  ***********
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
 Package rerunfilecheck Info: File `clanok.out' has not changed.
 (rerunfilecheck)             Checksum: DCA731DA2FC82593BB099E907EB500F3;982.
  ) 
@@ -352,15 +356,15 @@ Here is how much of TeX's memory you used:
  38958 multiletter control sequences out of 15000+600000
  641059 words of font info for 71 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,8n,79p,335b,562s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,8n,79p,335b,634s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\Admin\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\c
-sbx10.pk> <C:\Users\Admin\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi6
-00\tcrm1000.pk> <C:\Users\Admin\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csf
-onts/dpi600\csbx12.pk> <C:\Users\Admin\AppData\Local\MiKTeX\fonts/pk/ljfour/pub
-lic/csfonts/dpi600\cssl10.pk> <C:\Users\Admin\AppData\Local\MiKTeX\fonts/pk/ljf
-our/public/csfonts/dpi600\csr6.pk> <C:\Users\Admin\AppData\Local\MiKTeX\fonts/p
-k/ljfour/public/csfonts/dpi600\csr8.pk> <C:\Users\Admin\AppData\Local\MiKTeX\fo
-nts/pk/ljfour/jknappen/ec/dpi600\tcrm0600.pk> <C:\Users\Admin\AppData\Local\MiK
+sbx10.pk> <C:\Users\Admin\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/d
+pi600\cssl10.pk> <C:\Users\Admin\AppData\Local\MiKTeX\fonts/pk/ljfour/public/cs
+fonts/dpi600\csr6.pk> <C:\Users\Admin\AppData\Local\MiKTeX\fonts/pk/ljfour/publ
+ic/csfonts/dpi600\csr8.pk> <C:\Users\Admin\AppData\Local\MiKTeX\fonts/pk/ljfour
+/jknappen/ec/dpi600\tcrm0600.pk> <C:\Users\Admin\AppData\Local\MiKTeX\fonts/pk/
+ljfour/jknappen/ec/dpi600\tcrm1000.pk> <C:\Users\Admin\AppData\Local\MiKTeX\fon
+ts/pk/ljfour/public/csfonts/dpi600\csbx12.pk> <C:\Users\Admin\AppData\Local\MiK
 TeX\fonts/pk/ljfour/public/csfonts/dpi600\csti10.pk> <C:\Users\Admin\AppData\Lo
 cal\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csr7.pk> <C:\Users\Admin\AppDa
 ta\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\cstt10.pk> <C:\Users\Admi
@@ -373,9 +377,9 @@ dpi600\csr9.pk> <C:\Users\Admin\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csf
 onts/dpi600\csr12.pk> <C:\Users\Admin\AppData\Local\MiKTeX\fonts/pk/ljfour/jkna
 ppen/ec/dpi600\tcrm1200.pk> <C:\Users\Admin\AppData\Local\MiKTeX\fonts/pk/ljfou
 r/public/csfonts/dpi600\csr17.pk>
-Output written on clanok.pdf (2 pages, 133253 bytes).
+Output written on clanok.pdf (2 pages, 131273 bytes).
 PDF statistics:
- 487 PDF objects out of 1000 (max. 8388607)
+ 480 PDF objects out of 1000 (max. 8388607)
  23 named destinations out of 1000 (max. 500000)
  65 words of extra memory for PDF output out of 10000 (max. 10000000)
 
